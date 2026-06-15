@@ -8,17 +8,17 @@ This project was created for Module 3 of CSE 310 Applied Programming to demonstr
 
 ## Features
 
-* Add products to the cloud database
-* View all stored products
-* Update existing products
-* Delete products from the database
-* Store inventory information remotely using Firebase Firestore
+Add products to the cloud database
+View all stored products
+Update existing products
+Delete products from the database
+Store inventory information remotely using Firebase Firestore
 
 ## Technologies Used
 
-* Python
-* Firebase Firestore
-* Firebase Admin SDK
+Python
+Firebase Firestore
+Firebase Admin SDK
 
 ## How to Run the Program
 
@@ -34,10 +34,10 @@ python main.py
 
 ## Project Structure
 
-* main.py
-* requirements.txt
-* README.md
-* .gitignore
+main.py
+requirements.txt
+README.md
+.gitignore
 
 ## Author
 
